@@ -2,7 +2,7 @@
 $title = 'Мой сайт';
 $name = 'Неопознанный енот';
 $image = 'img/unknown-raccoon.svg';
-$email = 'enot_neopoznanniy@gmail.com';
+$email = '89161366335@bk.ru';
 $phone = '+79191366335';
 
 require('components/header.php');
